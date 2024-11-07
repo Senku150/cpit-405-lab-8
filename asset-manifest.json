@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Senku150/cpit-405-lab-8/static/css/main.f7ad16e7.css",
+    "main.js": "/Senku150/cpit-405-lab-8/static/js/main.3d3b9b4c.js",
+    "static/js/453.f1e09b55.chunk.js": "/Senku150/cpit-405-lab-8/static/js/453.f1e09b55.chunk.js",
+    "index.html": "/Senku150/cpit-405-lab-8/index.html",
+    "main.f7ad16e7.css.map": "/Senku150/cpit-405-lab-8/static/css/main.f7ad16e7.css.map",
+    "main.3d3b9b4c.js.map": "/Senku150/cpit-405-lab-8/static/js/main.3d3b9b4c.js.map",
+    "453.f1e09b55.chunk.js.map": "/Senku150/cpit-405-lab-8/static/js/453.f1e09b55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7ad16e7.css",
+    "static/js/main.3d3b9b4c.js"
+  ]
+}
